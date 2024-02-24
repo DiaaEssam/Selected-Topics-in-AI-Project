@@ -2,6 +2,18 @@
 
 This repository contains the code and research paper for the project "Modern Approach for Weed Recognition Using SVM GWO." The project focuses on utilizing Support Vector Machine (SVM) classifiers integrated with Convolutional Neural Network (CNN) architectures for accurate weed detection in agricultural images.
 
+## Table of Contents
+
+- [Research Paper](#research-paper)
+- [Contents](#contents)
+- [Methodology](#methodology)
+- [Dataset](#dataset)
+- [Code](#code)
+- [Usage](#usage)
+- [Results](#results)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Research Paper
 
 The research paper titled "Modern Approach for Weed Recognition Using SVM GWO" by Mohammed Kamal, Diaa Essam, and Aly Waleed was published in December 2023. It explores the fusion of modified CNN architectures with SVMs at the classification layer to enhance classification performance. The paper discusses the application of this approach to the Plant Seedlings dataset and evaluates the efficacy of the proposed models against their original counterparts. The results provide insights into the potential enhancements achievable through the integration of SVM classifiers in CNN architectures.
@@ -28,7 +40,7 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/weed-recognition-svm-gwo.git`
 2. Make a new notebook in Kaggle to access the pre-trained models and use any GPU of the accelerators available in Kaggle.
-3. Import the cloned notebook in the notebook you created in kaggle.
+3. Import the cloned notebook in the notebook you created in Kaggle.
 4. Run all or modify the code as you wish.
 
 ## Results
