@@ -1,4 +1,4 @@
-# Weed Recognition Using SVM & GWO
+# Enhancing Models' Scores Through Feature Extraction & Gray Wolf Optimization
 
 This repository contains the code and research paper for the project "Modern Approach for Weed Recognition Using SVM GWO." The project focuses on utilizing Support Vector Machine (SVM) classifiers integrated with Convolutional Neural Network (CNN) architectures for accurate weed detection in agricultural images.
 
